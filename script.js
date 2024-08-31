@@ -107,7 +107,7 @@ else{
 logo.classList.toggle('hidden')
 logo.classList.toggle('z-1')
 navBar.classList.toggle('bg-white')
-navBar.classList.toggle('pb-0')
+navBar.classList.toggle('pb-2')
 navBar.classList.toggle('z-1')
 navBar.classList.toggle('fixed')
 navBar.classList.toggle('w-[100%]')
@@ -118,8 +118,6 @@ menu.classList.toggle('hidden')
 menu.classList.toggle('gap-3')
 menu.classList.toggle('justify-between')
 menu.classList.toggle('pr-4')
-
-
 padding.classList.toggle('hidden')
   
   
