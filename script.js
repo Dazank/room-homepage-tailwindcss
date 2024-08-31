@@ -107,7 +107,7 @@ else{
 logo.classList.toggle('hidden')
 logo.classList.toggle('z-1')
 navBar.classList.toggle('bg-white')
-navBar.classList.toggle('pb-[5rem]')
+navBar.classList.toggle('pb-7')
 navBar.classList.toggle('z-1')
 navBar.classList.toggle('fixed')
 navBar.classList.toggle('pb-[20rem]')
